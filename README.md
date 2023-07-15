@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @susj0
+- 👋 Hi, I’m Susie
 
 <!---
 susj0/susj0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
